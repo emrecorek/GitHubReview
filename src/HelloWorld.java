@@ -6,10 +6,6 @@ public class HelloWorld {
 
         //work1
 
-        //branch1
-
-        //branch2
-
         //master1
 
         //master2
