@@ -8,7 +8,7 @@ public class HelloWorld {
 
         //branch1
 
-        //master1
+        //branch2
 
     }
 }
